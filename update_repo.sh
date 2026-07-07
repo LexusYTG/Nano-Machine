@@ -11,6 +11,6 @@ dpkg-scanpackages pool/ > dists/stable/main/binary-all/Packages
 gzip -c dists/stable/main/binary-all/Packages > dists/stable/main/binary-all/Packages.gz
 
 # 4. Generar el archivo Release (donde viven los hashes que faltan)
-apt-ftparchive release dists/stable > dists/stable/Release
+apt-ftparchive -o APT::FTPArchive::Release::Suite="stable" release dists/stable > dists/stable/Release
 
 echo "Repositorio actualizado correctamente."
