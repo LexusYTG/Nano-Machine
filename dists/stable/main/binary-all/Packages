@@ -1,0 +1,16 @@
+Package: proxy-tui
+Version: 1.0-1
+Architecture: all
+Maintainer: Leonardo Sebastian Nivoida <leonpackpro@email.com>
+Depends: whiptail
+Filename: pool/main/p/proxy-tui/proxy-tui_1.0-1.deb
+Size: 3580
+MD5sum: 14cefb6f02d5783f4a18abc97b3725d9
+SHA1: 95e3a50e1781644d83ef2cb8b5c39e595f44276e
+SHA256: 2105e0efdd0c517bee533b8b1bbf68e8380461ea4b1acbe4c2bb7bccadfb4ad1
+Section: utils
+Priority: optional
+Description: Configurador de proxy con interfaz whiptail
+ Permite configurar proxy a nivel de usuario o sistema
+ mediante un menu interactivo estilo clasico.
+
