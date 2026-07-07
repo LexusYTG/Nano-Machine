@@ -16,18 +16,19 @@ Description: un generador de paquetes grafico automatizado para crear archivos .
  Paquete generado automáticamente con DEB Packer.
 
 Package: proxy-tui
-Version: 1.0-1
+Version: 1.1
 Architecture: all
-Maintainer: Leonardo Sebastian Nivoida <leonpackpro@email.com>
+Maintainer: Leonardo Sebastian Nivoida <leonpackpro@gmail.com>
 Depends: whiptail
-Filename: pool/main/p/proxy-tui/proxy-tui_1.0-1.deb
-Size: 3580
-MD5sum: 14cefb6f02d5783f4a18abc97b3725d9
-SHA1: 95e3a50e1781644d83ef2cb8b5c39e595f44276e
-SHA256: 2105e0efdd0c517bee533b8b1bbf68e8380461ea4b1acbe4c2bb7bccadfb4ad1
-Section: utils
+Filename: pool/main/p/proxy-tui/proxy-tui_1.1.deb
+Size: 6494
+MD5sum: fde6b2580b927c9f1ca8b8017bc5fa77
+SHA1: 5a9bb710c07132478d1918d54d2418ee6a3a99b0
+SHA256: 2388dde669802579d5831fd88449f2ba9a7d8158b955802ca95bd6c269b2746b
+Section: net
 Priority: optional
 Description: Configurador de proxy con interfaz whiptail
- Permite configurar proxy a nivel de usuario o sistema
- mediante un menu interactivo estilo clasico.
+ Configurador de proxy con interfaz whiptail
+ .
+ Paquete generado automáticamente con DEB Packer.
 
