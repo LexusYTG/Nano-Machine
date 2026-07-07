@@ -1,0 +1,7 @@
+Origin: Nano-Machine
+Label: Nano-Machine
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Herramientas para Debian/Ubuntu
