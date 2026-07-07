@@ -1,7 +1,17 @@
-Origin: Nano-Machine
-Label: Nano-Machine
-Suite: stable
-Codename: stable
-Architectures: all
-Components: main
-Description: Herramientas para Debian/Ubuntu
+Date: Tue, 07 Jul 2026 11:57:03 +0000
+MD5Sum:
+ 313ed8dcad053fc1871afc8160df09ea               38 Release
+ 98303c78eb1c00bbc125f95cca1c223a              550 main/binary-all/Packages
+ 8c55e4b7c901ca01824644dd1f46b968              409 main/binary-all/Packages.gz
+SHA1:
+ 17c4c5752aad536aaee0db65b14abae0b532b1a9               38 Release
+ ef53d2313647b201f3f12f16143f013c2b252dec              550 main/binary-all/Packages
+ 6f1442933b9c0ff24dd78317e01e61c69b073fe7              409 main/binary-all/Packages.gz
+SHA256:
+ b75f39f4256ce7fa0578791723133fc24a44d0101bece1aa5aadd846c89a87db               38 Release
+ 695a7bbb14d4041c9b8ce2e52d8a6ab3a8c2b6693683f7aa4316288d1e390f84              550 main/binary-all/Packages
+ e2f7a4f80c6a2d45babbefc36b141e03c84099705662f4a127c9b2e58704c5f8              409 main/binary-all/Packages.gz
+SHA512:
+ f682b9a22f6ebb05b204034745775396de9ad4e85e5afb248c5450d4ec9c61d574b1626dc2f932a2cab4db02c8e975b051b956219de09d9cf0839b442c8ed610               38 Release
+ 23a01f1635d1c6ee8e4f025829a2eec3cdbd65c1e5da9fddfcafb4f869ac9ba3e83fb529c3e62684ea3b7735763c0bda1203f691a60e899a7a015f74a32580c0              550 main/binary-all/Packages
+ f960dabff2e3eba4e99cbb49e82bdbfadf276fa62285888b127f8bd628aa11edf39a1f4fe8657af9a00c7210517539951640ee06d950333adeb4dbf405feec8d              409 main/binary-all/Packages.gz
