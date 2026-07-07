@@ -4,12 +4,12 @@ Architecture: all
 Maintainer: Leonardo Sebastian Nivoida <leonpackpro@email.com>
 Depends: whiptail, dpkg-dev, fakeroot, lintian
 Filename: pool/main/p/deb-packer/deb-packer_1.0.0.deb
-Size: 9654
-MD5sum: 2d121e5e34ffeb914bd593b7cc9e0fdc
-SHA1: 41839ad812f7237cc99de4a344d407127483699c
-SHA256: e39cf3e3926ddb3d21a50abe23546db957ff07b426730780448cee2927a81980
+Size: 12144
+MD5sum: 5638da13a46811f3f8669ff6c84704eb
+SHA1: 23a1b6a01112dcbf9c8ba8e823f246a3107ffdf7
+SHA256: d923b163f5687b88b43f55796a7e44a129291304d4c548aa6ac90c482c4b6112
 Section: utils
-Priority: standard
+Priority: optional
 Description: un generador de paquetes grafico automatizado para crear archivos .deb rapido
  un generador de paquetes grafico automatizado para crear archivos .deb rapido
  .
